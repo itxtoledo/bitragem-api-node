@@ -1,0 +1,13 @@
+{
+  "name": "bitragem-api-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itxtoledo/bitragem-api-node.git",
+  "author": "Gustavo <gugurock50@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "axios": "^0.19.2",
+    "esm": "^3.2.25"
+  }
+}
